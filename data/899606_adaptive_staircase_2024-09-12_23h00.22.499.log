@@ -1,0 +1,923 @@
+4.1279 	INFO 	Loaded monitor calibration from ['2024_08_16 11:13']
+4.3863 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, autoLog=True, backendConf=UNKNOWN, backgroundFit=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001FC81451780>, backgroundImage=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001FC814517E0>, bitsMode=UNKNOWN, blendMode='avg', bpc=(8, 8, 8), color=array([0, 0, 0]), colorSpace='rgb', depthBits=8, fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x000001FC81451990>, gamma=None, gammaErrorPolicy='raise', infoMsg=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x000001FC8145E200>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1280,  720]), stencilBits=0, stereo=False, title='PsychoPy', units='height', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+4.3865 	EXP 	window1: backgroundImage = ''
+4.3865 	EXP 	window1: backgroundFit = 'none'
+4.3868 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001FC81451660>
+4.3869 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001FC81451660>
+4.3916 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001FC81451660>
+4.3926 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001FC81451660>
+4.4339 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001FC81451660>
+4.4340 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001FC81451660>
+4.4349 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001FC81451660>
+4.4355 	EXP 	window1: mouseVisible = <method-wrapper '__getattribute__' of attributeSetter object at 0x000001FC81451660>
+4.4602 	EXP 	window1: Attempting to measure frame rate of screen (0) ...
+4.4603 	EXP 	window1: recordFrameIntervals = False
+4.6297 	EXP 	window1: recordFrameIntervals = True
+4.8129 	EXP 	Screen (0) actual frame rate measured at 60.05Hz
+4.8129 	EXP 	window1: recordFrameIntervals = False
+4.8131 	EXP 	window1: mouseVisible = False
+7.1933 	INFO 	keyboard.Keyboard is using iohub backend.
+7.1935 	INFO 	keyboard.Keyboard is using iohub backend.
+7.1935 	EXP 	adaptive_staircase: status = STARTED
+7.1937 	EXP 	window1: mouseVisible = False
+7.1981 	EXP 	Created fixation = ShapeStim(__class__=<class 'psychopy.visual.shape.ShapeStim'>, anchor=('center', 'center'), autoDraw=False, autoLog=True, closeShape=True, color=method-wrapper(...), colorSpace='rgb', contrast=None, depth=-1.0, draggable=False, fillColor=array([1, 1, 1]), fillColorSpace='rgb', fillRGB=array([1, 1, 1]), interpolate=True, lineColor=array([1., 1., 1.]), lineColorSpace='rgb', lineRGB=array([1, 1, 1]), lineWidth=1.0, name='fixation', opacity=1, ori=0.0, pos=array([0., 0.]), size=array([0.1, 0.1]), units='height', vertices=ndarray(...), win=Window(...), windingRule=None)
+7.1982 	EXP 	window1: mouseVisible = False
+7.2013 	EXP 	Created grating = GratingStim(__class__=<class 'psychopy.visual.grating.GratingStim'>, anchor='center', autoDraw=False, autoLog=True, blendmode='avg', color=array([0.5, 0.5, 0.5]), colorSpace='rgb', contrast=0.5, depth=-2.0, draggable=False, interpolate=True, mask='gauss', maskParams=None, name='grating', opacity=1, ori=1.0, phase=array([0., 0.]), pos=array([0., 0.]), rgbPedestal=array([0., 0., 0.]), sf=array([8., 8.]), size=array([0.3, 0.3]), tex='sin', texRes=128.0, units='height', win=Window(...))
+0.0028 	WARNING 	Increasing number of minimum required reversals to the number of step sizes, (4).
+0.0098 	EXP 	grating: ori = -10.0
+0.0098 	EXP 	fixation: autoDraw = True
+0.5102 	INFO 	Keyboard events cleared
+0.5096 	EXP 	fixation: autoDraw = False
+0.5096 	EXP 	grating: autoDraw = True
+0.5096 	EXP 	grating: tex = 'sin'
+0.8087 	EXP 	grating: autoDraw = False
+1.9149 	DATA 	Keypress: left
+1.9253 	EXP 	fixation: autoDraw = False
+1.9253 	EXP 	grating: autoDraw = False
+1.9253 	EXP 	grating: ori = -8.0
+1.9253 	EXP 	fixation: autoDraw = True
+2.4252 	INFO 	Keyboard events cleared
+2.4246 	EXP 	grating: autoDraw = True
+2.4409 	EXP 	fixation: autoDraw = False
+2.7238 	EXP 	grating: autoDraw = False
+2.8439 	DATA 	Keypress: left
+2.8574 	EXP 	fixation: autoDraw = False
+2.8574 	EXP 	grating: autoDraw = False
+2.8574 	EXP 	grating: ori = -6.0
+2.8574 	EXP 	fixation: autoDraw = True
+3.3577 	INFO 	Keyboard events cleared
+3.3570 	EXP 	fixation: autoDraw = False
+3.3570 	EXP 	grating: autoDraw = True
+3.6571 	EXP 	grating: autoDraw = False
+3.7415 	DATA 	Keypress: left
+3.7570 	EXP 	fixation: autoDraw = False
+3.7570 	EXP 	grating: autoDraw = False
+3.7570 	EXP 	grating: ori = -4.0
+3.7570 	EXP 	fixation: autoDraw = True
+4.2564 	INFO 	Keyboard events cleared
+4.2559 	EXP 	grating: autoDraw = True
+4.2730 	EXP 	fixation: autoDraw = False
+4.5559 	EXP 	grating: autoDraw = False
+4.6251 	DATA 	Keypress: left
+4.6391 	EXP 	fixation: autoDraw = False
+4.6391 	EXP 	grating: autoDraw = False
+4.6391 	EXP 	grating: ori = 2.0
+4.6391 	EXP 	fixation: autoDraw = True
+5.1394 	INFO 	Keyboard events cleared
+5.1387 	EXP 	fixation: autoDraw = False
+5.1387 	EXP 	grating: autoDraw = True
+5.4384 	EXP 	grating: autoDraw = False
+5.5570 	DATA 	Keypress: right
+5.5717 	EXP 	fixation: autoDraw = False
+5.5717 	EXP 	grating: autoDraw = False
+5.5717 	EXP 	grating: ori = 1.0
+5.5717 	EXP 	fixation: autoDraw = True
+6.0718 	INFO 	Keyboard events cleared
+6.0714 	EXP 	fixation: autoDraw = False
+6.0714 	EXP 	grating: autoDraw = True
+6.3705 	EXP 	grating: autoDraw = False
+6.4563 	DATA 	Keypress: right
+6.4708 	EXP 	fixation: autoDraw = False
+6.4708 	EXP 	grating: autoDraw = False
+6.4708 	EXP 	grating: ori = 1.0
+6.4708 	EXP 	fixation: autoDraw = True
+6.9708 	INFO 	Keyboard events cleared
+6.9703 	EXP 	grating: autoDraw = True
+6.9871 	EXP 	fixation: autoDraw = False
+7.2703 	EXP 	grating: autoDraw = False
+7.6884 	DATA 	Keypress: right
+7.7029 	EXP 	fixation: autoDraw = False
+7.7029 	EXP 	grating: autoDraw = False
+7.7029 	EXP 	grating: ori = 1.0
+7.7029 	EXP 	fixation: autoDraw = True
+8.1868 	INFO 	Keyboard events cleared
+8.1865 	EXP 	grating: autoDraw = True
+8.2029 	EXP 	fixation: autoDraw = False
+8.4861 	EXP 	grating: autoDraw = False
+9.2039 	DATA 	Keypress: left
+9.2184 	EXP 	fixation: autoDraw = False
+9.2184 	EXP 	grating: autoDraw = False
+9.2184 	EXP 	grating: ori = -2.0
+9.2184 	EXP 	fixation: autoDraw = True
+9.7186 	INFO 	Keyboard events cleared
+9.7181 	EXP 	fixation: autoDraw = False
+9.7181 	EXP 	grating: autoDraw = True
+10.0180 	EXP 	grating: autoDraw = False
+10.9026 	DATA 	Keypress: left
+10.9174 	EXP 	fixation: autoDraw = False
+10.9174 	EXP 	grating: autoDraw = False
+10.9174 	EXP 	grating: ori = 2.0
+10.9174 	EXP 	fixation: autoDraw = True
+11.4173 	INFO 	Keyboard events cleared
+11.4167 	EXP 	fixation: autoDraw = False
+11.4167 	EXP 	grating: autoDraw = True
+11.7163 	EXP 	grating: autoDraw = False
+12.0848 	DATA 	Keypress: right
+12.0996 	EXP 	fixation: autoDraw = False
+12.0996 	EXP 	grating: autoDraw = False
+12.0996 	EXP 	grating: ori = -2.0
+12.0996 	EXP 	fixation: autoDraw = True
+12.5996 	INFO 	Keyboard events cleared
+12.5991 	EXP 	fixation: autoDraw = False
+12.5991 	EXP 	grating: autoDraw = True
+12.8986 	EXP 	grating: autoDraw = False
+12.9536 	DATA 	Keypress: right
+12.9661 	EXP 	fixation: autoDraw = False
+12.9661 	EXP 	grating: autoDraw = False
+12.9661 	EXP 	grating: ori = 3.0
+12.9661 	EXP 	fixation: autoDraw = True
+13.4666 	INFO 	Keyboard events cleared
+13.4660 	EXP 	grating: autoDraw = True
+13.4819 	EXP 	fixation: autoDraw = False
+13.7812 	EXP 	grating: autoDraw = False
+13.8838 	DATA 	Keypress: right
+13.8978 	EXP 	fixation: autoDraw = False
+13.8978 	EXP 	grating: autoDraw = False
+13.8978 	EXP 	grating: ori = 3.0
+13.8978 	EXP 	fixation: autoDraw = True
+14.3979 	INFO 	Keyboard events cleared
+14.3973 	EXP 	fixation: autoDraw = False
+14.3973 	EXP 	grating: autoDraw = True
+14.6974 	EXP 	grating: autoDraw = False
+15.1162 	DATA 	Keypress: right
+15.1308 	EXP 	fixation: autoDraw = False
+15.1308 	EXP 	grating: autoDraw = False
+15.1308 	EXP 	grating: ori = -3.0
+15.1308 	EXP 	fixation: autoDraw = True
+15.6305 	INFO 	Keyboard events cleared
+15.6297 	EXP 	fixation: autoDraw = False
+15.6297 	EXP 	grating: autoDraw = True
+15.9299 	EXP 	grating: autoDraw = False
+15.9998 	DATA 	Keypress: left
+16.0133 	EXP 	fixation: autoDraw = False
+16.0133 	EXP 	grating: autoDraw = False
+16.0133 	EXP 	grating: ori = -2.0
+16.0133 	EXP 	fixation: autoDraw = True
+16.5131 	INFO 	Keyboard events cleared
+16.5125 	EXP 	fixation: autoDraw = False
+16.5125 	EXP 	grating: autoDraw = True
+16.8123 	EXP 	grating: autoDraw = False
+16.8143 	DATA 	Keypress: left
+16.8291 	EXP 	fixation: autoDraw = False
+16.8291 	EXP 	grating: autoDraw = False
+16.8291 	EXP 	grating: ori = 2.0
+16.8291 	EXP 	fixation: autoDraw = True
+17.3284 	INFO 	Keyboard events cleared
+17.3279 	EXP 	grating: autoDraw = True
+17.3449 	EXP 	fixation: autoDraw = False
+17.6282 	EXP 	grating: autoDraw = False
+17.6810 	DATA 	Keypress: left
+17.6955 	EXP 	fixation: autoDraw = False
+17.6955 	EXP 	grating: autoDraw = False
+17.6955 	EXP 	grating: ori = 2.5
+17.6955 	EXP 	fixation: autoDraw = True
+18.1948 	INFO 	Keyboard events cleared
+18.1942 	EXP 	fixation: autoDraw = False
+18.1942 	EXP 	grating: autoDraw = True
+18.4949 	EXP 	grating: autoDraw = False
+18.6293 	DATA 	Keypress: left
+18.6439 	EXP 	fixation: autoDraw = False
+18.6439 	EXP 	grating: autoDraw = False
+18.6439 	EXP 	grating: ori = 3.0
+18.6439 	EXP 	fixation: autoDraw = True
+19.1439 	INFO 	Keyboard events cleared
+19.1434 	EXP 	fixation: autoDraw = False
+19.1434 	EXP 	grating: autoDraw = True
+19.4433 	EXP 	grating: autoDraw = False
+19.5454 	DATA 	Keypress: left
+19.5769 	EXP 	fixation: autoDraw = False
+19.5769 	EXP 	grating: autoDraw = False
+19.5769 	EXP 	grating: ori = -3.5
+19.5769 	EXP 	fixation: autoDraw = True
+20.0605 	INFO 	Keyboard events cleared
+20.0602 	EXP 	grating: autoDraw = True
+20.0771 	EXP 	fixation: autoDraw = False
+20.3593 	EXP 	grating: autoDraw = False
+20.4781 	DATA 	Keypress: right
+20.4925 	EXP 	fixation: autoDraw = False
+20.4925 	EXP 	grating: autoDraw = False
+20.4925 	EXP 	grating: ori = 4.0
+20.4925 	EXP 	fixation: autoDraw = True
+20.9932 	INFO 	Keyboard events cleared
+20.9927 	EXP 	fixation: autoDraw = False
+20.9927 	EXP 	grating: autoDraw = True
+21.3081 	EXP 	grating: autoDraw = False
+21.7112 	DATA 	Keypress: left
+21.7250 	EXP 	fixation: autoDraw = False
+21.7250 	EXP 	grating: autoDraw = False
+21.7250 	EXP 	grating: ori = -4.5
+21.7250 	EXP 	fixation: autoDraw = True
+22.2251 	INFO 	Keyboard events cleared
+22.2244 	EXP 	fixation: autoDraw = False
+22.2244 	EXP 	grating: autoDraw = True
+22.5242 	EXP 	grating: autoDraw = False
+23.0922 	DATA 	Keypress: left
+23.1070 	EXP 	fixation: autoDraw = False
+23.1070 	EXP 	grating: autoDraw = False
+23.1070 	EXP 	grating: ori = -4.5
+23.1070 	EXP 	fixation: autoDraw = True
+23.5905 	INFO 	Keyboard events cleared
+23.5899 	EXP 	grating: autoDraw = True
+23.6075 	EXP 	fixation: autoDraw = False
+23.8895 	EXP 	grating: autoDraw = False
+24.0588 	DATA 	Keypress: left
+24.0725 	EXP 	fixation: autoDraw = False
+24.0725 	EXP 	grating: autoDraw = False
+24.0725 	EXP 	grating: ori = 4.5
+24.0725 	EXP 	fixation: autoDraw = True
+24.5737 	INFO 	Keyboard events cleared
+24.5732 	EXP 	fixation: autoDraw = False
+24.5732 	EXP 	grating: autoDraw = True
+24.8721 	EXP 	grating: autoDraw = False
+25.0905 	DATA 	Keypress: right
+25.1221 	EXP 	fixation: autoDraw = False
+25.1221 	EXP 	grating: autoDraw = False
+25.1221 	EXP 	grating: ori = -4.0
+25.1221 	EXP 	fixation: autoDraw = True
+25.6222 	INFO 	Keyboard events cleared
+25.6217 	EXP 	fixation: autoDraw = False
+25.6217 	EXP 	grating: autoDraw = True
+25.9215 	EXP 	grating: autoDraw = False
+26.0584 	DATA 	Keypress: left
+26.0726 	EXP 	fixation: autoDraw = False
+26.0726 	EXP 	grating: autoDraw = False
+26.0726 	EXP 	grating: ori = 4.0
+26.0726 	EXP 	fixation: autoDraw = True
+26.5720 	INFO 	Keyboard events cleared
+26.5715 	EXP 	grating: autoDraw = True
+26.5875 	EXP 	fixation: autoDraw = False
+26.8705 	EXP 	grating: autoDraw = False
+27.0085 	DATA 	Keypress: right
+27.0214 	EXP 	fixation: autoDraw = False
+27.0214 	EXP 	grating: autoDraw = False
+27.0214 	EXP 	grating: ori = 4.0
+27.0214 	EXP 	fixation: autoDraw = True
+27.5207 	INFO 	Keyboard events cleared
+27.5202 	EXP 	grating: autoDraw = True
+27.5371 	EXP 	fixation: autoDraw = False
+27.8198 	EXP 	grating: autoDraw = False
+27.8727 	DATA 	Keypress: right
+27.8870 	EXP 	fixation: autoDraw = False
+27.8870 	EXP 	grating: autoDraw = False
+27.8870 	EXP 	grating: ori = 3.5
+27.8870 	EXP 	fixation: autoDraw = True
+28.3865 	INFO 	Keyboard events cleared
+28.3860 	EXP 	grating: autoDraw = True
+28.4029 	EXP 	fixation: autoDraw = False
+28.6545 	DATA 	Keypress: right
+28.6691 	EXP 	fixation: autoDraw = False
+28.6691 	EXP 	grating: autoDraw = False
+28.6691 	EXP 	grating: ori = 3.5
+28.6691 	EXP 	fixation: autoDraw = True
+29.1531 	INFO 	Keyboard events cleared
+29.1524 	EXP 	grating: autoDraw = True
+29.1688 	EXP 	fixation: autoDraw = False
+29.4210 	DATA 	Keypress: right
+29.4358 	EXP 	fixation: autoDraw = False
+29.4358 	EXP 	grating: autoDraw = False
+29.4358 	EXP 	grating: ori = -3.5
+29.4358 	EXP 	fixation: autoDraw = True
+29.9352 	INFO 	Keyboard events cleared
+29.9349 	EXP 	fixation: autoDraw = False
+29.9349 	EXP 	grating: autoDraw = True
+30.2351 	EXP 	grating: autoDraw = False
+30.2375 	DATA 	Keypress: right
+30.2511 	EXP 	fixation: autoDraw = False
+30.2511 	EXP 	grating: autoDraw = False
+30.2511 	EXP 	grating: ori = -4.0
+30.2511 	EXP 	fixation: autoDraw = True
+30.7513 	INFO 	Keyboard events cleared
+30.7508 	EXP 	fixation: autoDraw = False
+30.7508 	EXP 	grating: autoDraw = True
+30.9863 	DATA 	Keypress: right
+31.0011 	EXP 	fixation: autoDraw = False
+31.0011 	EXP 	grating: autoDraw = False
+31.0011 	EXP 	grating: ori = -4.5
+31.0011 	EXP 	fixation: autoDraw = True
+31.5010 	INFO 	Keyboard events cleared
+31.5005 	EXP 	grating: autoDraw = True
+31.5175 	EXP 	fixation: autoDraw = False
+31.8003 	EXP 	grating: autoDraw = False
+33.8678 	DATA 	Keypress: left
+33.8816 	EXP 	fixation: autoDraw = False
+33.8816 	EXP 	grating: autoDraw = False
+33.8816 	EXP 	grating: ori = 4.5
+33.8816 	EXP 	fixation: autoDraw = True
+34.3821 	INFO 	Keyboard events cleared
+34.3816 	EXP 	fixation: autoDraw = False
+34.3816 	EXP 	grating: autoDraw = True
+34.6803 	EXP 	grating: autoDraw = False
+36.4487 	DATA 	Keypress: left
+36.4624 	EXP 	fixation: autoDraw = False
+36.4624 	EXP 	grating: autoDraw = False
+36.4624 	EXP 	grating: ori = 5.0
+36.4624 	EXP 	fixation: autoDraw = True
+36.9621 	INFO 	Keyboard events cleared
+36.9616 	EXP 	fixation: autoDraw = False
+36.9616 	EXP 	grating: autoDraw = True
+37.2617 	EXP 	grating: autoDraw = False
+37.7645 	DATA 	Keypress: right
+37.7781 	EXP 	fixation: autoDraw = False
+37.7781 	EXP 	grating: autoDraw = False
+37.7781 	EXP 	grating: ori = -5.0
+37.7781 	EXP 	fixation: autoDraw = True
+38.2786 	INFO 	Keyboard events cleared
+38.2779 	EXP 	fixation: autoDraw = False
+38.2779 	EXP 	grating: autoDraw = True
+38.5780 	EXP 	grating: autoDraw = False
+39.2627 	DATA 	Keypress: left
+39.2769 	EXP 	fixation: autoDraw = False
+39.2769 	EXP 	grating: autoDraw = False
+39.2769 	EXP 	grating: ori = -5.0
+39.2769 	EXP 	fixation: autoDraw = True
+39.7772 	INFO 	Keyboard events cleared
+39.7766 	EXP 	fixation: autoDraw = False
+39.7766 	EXP 	grating: autoDraw = True
+40.0761 	EXP 	grating: autoDraw = False
+40.4618 	DATA 	Keypress: left
+40.4758 	EXP 	fixation: autoDraw = False
+40.4758 	EXP 	grating: autoDraw = False
+40.4758 	EXP 	grating: ori = -4.5
+40.4758 	EXP 	fixation: autoDraw = True
+40.9768 	INFO 	Keyboard events cleared
+40.9764 	EXP 	fixation: autoDraw = False
+40.9764 	EXP 	grating: autoDraw = True
+41.2922 	EXP 	grating: autoDraw = False
+41.3775 	DATA 	Keypress: left
+41.3924 	EXP 	fixation: autoDraw = False
+41.3924 	EXP 	grating: autoDraw = False
+41.3924 	EXP 	grating: ori = 4.5
+41.3924 	EXP 	fixation: autoDraw = True
+41.8922 	INFO 	Keyboard events cleared
+41.8916 	EXP 	fixation: autoDraw = False
+41.8916 	EXP 	grating: autoDraw = True
+42.1918 	EXP 	grating: autoDraw = False
+42.3265 	DATA 	Keypress: right
+42.3408 	EXP 	fixation: autoDraw = False
+42.3408 	EXP 	grating: autoDraw = False
+42.3408 	EXP 	grating: ori = 4.5
+42.3408 	EXP 	fixation: autoDraw = True
+42.8246 	INFO 	Keyboard events cleared
+42.8240 	EXP 	grating: autoDraw = True
+42.8408 	EXP 	fixation: autoDraw = False
+43.1239 	EXP 	grating: autoDraw = False
+43.1444 	DATA 	Keypress: right
+43.1589 	EXP 	fixation: autoDraw = False
+43.1589 	EXP 	grating: autoDraw = False
+43.1589 	EXP 	grating: ori = 4.0
+43.1589 	EXP 	fixation: autoDraw = True
+43.6577 	INFO 	Keyboard events cleared
+43.6572 	EXP 	grating: autoDraw = True
+43.6731 	EXP 	fixation: autoDraw = False
+43.9561 	EXP 	grating: autoDraw = False
+43.9921 	DATA 	Keypress: right
+44.0071 	EXP 	fixation: autoDraw = False
+44.0071 	EXP 	grating: autoDraw = False
+44.0071 	EXP 	grating: ori = 4.0
+44.0071 	EXP 	fixation: autoDraw = True
+44.5071 	INFO 	Keyboard events cleared
+44.5064 	EXP 	fixation: autoDraw = False
+44.5064 	EXP 	grating: autoDraw = True
+44.8055 	EXP 	grating: autoDraw = False
+44.8413 	DATA 	Keypress: right
+44.8559 	EXP 	fixation: autoDraw = False
+44.8559 	EXP 	grating: autoDraw = False
+44.8559 	EXP 	grating: ori = -4.0
+44.8559 	EXP 	fixation: autoDraw = True
+45.3559 	INFO 	Keyboard events cleared
+45.3553 	EXP 	fixation: autoDraw = False
+45.3553 	EXP 	grating: autoDraw = True
+45.6418 	DATA 	Keypress: right
+45.6557 	EXP 	grating: autoDraw = False
+45.6557 	EXP 	fixation: autoDraw = False
+45.6557 	EXP 	grating: autoDraw = False
+45.6557 	EXP 	grating: ori = 4.5
+45.6557 	EXP 	fixation: autoDraw = True
+46.1546 	INFO 	Keyboard events cleared
+46.1540 	EXP 	fixation: autoDraw = False
+46.1540 	EXP 	grating: autoDraw = True
+46.4543 	EXP 	grating: autoDraw = False
+46.7240 	DATA 	Keypress: right
+46.7375 	EXP 	fixation: autoDraw = False
+46.7375 	EXP 	grating: autoDraw = False
+46.7375 	EXP 	grating: ori = -4.5
+46.7375 	EXP 	fixation: autoDraw = True
+47.2378 	INFO 	Keyboard events cleared
+47.2373 	EXP 	fixation: autoDraw = False
+47.2373 	EXP 	grating: autoDraw = True
+47.5374 	EXP 	grating: autoDraw = False
+48.3054 	DATA 	Keypress: left
+48.3199 	EXP 	fixation: autoDraw = False
+48.3199 	EXP 	grating: autoDraw = False
+48.3199 	EXP 	grating: ori = -4.5
+48.3199 	EXP 	fixation: autoDraw = True
+48.8199 	INFO 	Keyboard events cleared
+48.8194 	EXP 	fixation: autoDraw = False
+48.8194 	EXP 	grating: autoDraw = True
+49.1191 	EXP 	grating: autoDraw = False
+49.3540 	DATA 	Keypress: left
+49.3687 	EXP 	fixation: autoDraw = False
+49.3687 	EXP 	grating: autoDraw = False
+49.3687 	EXP 	grating: ori = 4.0
+49.3687 	EXP 	fixation: autoDraw = True
+49.8690 	INFO 	Keyboard events cleared
+49.8683 	EXP 	fixation: autoDraw = False
+49.8683 	EXP 	grating: autoDraw = True
+50.1686 	EXP 	grating: autoDraw = False
+50.3875 	DATA 	Keypress: right
+50.4017 	EXP 	fixation: autoDraw = False
+50.4017 	EXP 	grating: autoDraw = False
+50.4017 	EXP 	grating: ori = -4.0
+50.4017 	EXP 	fixation: autoDraw = True
+50.9015 	INFO 	Keyboard events cleared
+50.9011 	EXP 	grating: autoDraw = True
+50.9184 	EXP 	fixation: autoDraw = False
+51.2008 	EXP 	grating: autoDraw = False
+51.3197 	DATA 	Keypress: right
+51.3339 	EXP 	fixation: autoDraw = False
+51.3339 	EXP 	grating: autoDraw = False
+51.3339 	EXP 	grating: ori = -4.5
+51.3339 	EXP 	fixation: autoDraw = True
+51.8342 	INFO 	Keyboard events cleared
+51.8337 	EXP 	fixation: autoDraw = False
+51.8337 	EXP 	grating: autoDraw = True
+52.1334 	EXP 	grating: autoDraw = False
+52.4366 	DATA 	Keypress: left
+52.4499 	EXP 	fixation: autoDraw = False
+52.4499 	EXP 	grating: autoDraw = False
+52.4499 	EXP 	grating: ori = 4.5
+52.4499 	EXP 	fixation: autoDraw = True
+52.9495 	INFO 	Keyboard events cleared
+52.9490 	EXP 	fixation: autoDraw = False
+52.9490 	EXP 	grating: autoDraw = True
+53.2487 	EXP 	grating: autoDraw = False
+53.3514 	DATA 	Keypress: right
+53.3658 	EXP 	fixation: autoDraw = False
+53.3658 	EXP 	grating: autoDraw = False
+53.3658 	EXP 	grating: ori = -4.5
+53.3658 	EXP 	fixation: autoDraw = True
+53.8654 	INFO 	Keyboard events cleared
+53.8649 	EXP 	grating: autoDraw = True
+53.8819 	EXP 	fixation: autoDraw = False
+54.1646 	EXP 	grating: autoDraw = False
+54.2337 	DATA 	Keypress: left
+54.2485 	EXP 	fixation: autoDraw = False
+54.2485 	EXP 	grating: autoDraw = False
+54.2485 	EXP 	grating: ori = 4.0
+54.2485 	EXP 	fixation: autoDraw = True
+54.7479 	INFO 	Keyboard events cleared
+54.7474 	EXP 	fixation: autoDraw = False
+54.7474 	EXP 	grating: autoDraw = True
+55.0475 	EXP 	grating: autoDraw = False
+55.0826 	DATA 	Keypress: right
+55.0975 	EXP 	fixation: autoDraw = False
+55.0975 	EXP 	grating: autoDraw = False
+55.0975 	EXP 	grating: ori = -4.0
+55.0975 	EXP 	fixation: autoDraw = True
+55.5977 	INFO 	Keyboard events cleared
+55.5972 	EXP 	fixation: autoDraw = False
+55.5972 	EXP 	grating: autoDraw = True
+55.8974 	EXP 	grating: autoDraw = False
+56.0159 	DATA 	Keypress: left
+56.0303 	EXP 	fixation: autoDraw = False
+56.0303 	EXP 	grating: autoDraw = False
+56.0303 	EXP 	grating: ori = -4.0
+56.0303 	EXP 	fixation: autoDraw = True
+56.5297 	INFO 	Keyboard events cleared
+56.5294 	EXP 	fixation: autoDraw = False
+56.5294 	EXP 	grating: autoDraw = True
+56.8293 	EXP 	grating: autoDraw = False
+56.8816 	DATA 	Keypress: right
+56.8959 	EXP 	fixation: autoDraw = False
+56.8959 	EXP 	grating: autoDraw = False
+56.8959 	EXP 	grating: ori = 4.5
+56.8959 	EXP 	fixation: autoDraw = True
+57.3796 	INFO 	Keyboard events cleared
+57.3791 	EXP 	grating: autoDraw = True
+57.3963 	EXP 	fixation: autoDraw = False
+57.6788 	EXP 	grating: autoDraw = False
+58.0475 	DATA 	Keypress: right
+58.0619 	EXP 	fixation: autoDraw = False
+58.0619 	EXP 	grating: autoDraw = False
+58.0619 	EXP 	grating: ori = 4.5
+58.0619 	EXP 	fixation: autoDraw = True
+58.5619 	INFO 	Keyboard events cleared
+58.5613 	EXP 	fixation: autoDraw = False
+58.5613 	EXP 	grating: autoDraw = True
+58.8609 	EXP 	grating: autoDraw = False
+58.9964 	DATA 	Keypress: right
+59.0102 	EXP 	fixation: autoDraw = False
+59.0102 	EXP 	grating: autoDraw = False
+59.0102 	EXP 	grating: ori = 4.5
+59.0102 	EXP 	fixation: autoDraw = True
+59.5113 	INFO 	Keyboard events cleared
+59.5107 	EXP 	fixation: autoDraw = False
+59.5107 	EXP 	grating: autoDraw = True
+59.8272 	EXP 	grating: autoDraw = False
+59.8797 	DATA 	Keypress: right
+59.8940 	EXP 	fixation: autoDraw = False
+59.8940 	EXP 	grating: autoDraw = False
+59.8940 	EXP 	grating: ori = 4.0
+59.8940 	EXP 	fixation: autoDraw = True
+60.3937 	INFO 	Keyboard events cleared
+60.3929 	EXP 	fixation: autoDraw = False
+60.3929 	EXP 	grating: autoDraw = True
+60.6791 	DATA 	Keypress: right
+60.6931 	EXP 	grating: autoDraw = False
+60.6931 	EXP 	fixation: autoDraw = False
+60.6931 	EXP 	grating: autoDraw = False
+60.6931 	EXP 	grating: ori = 4.0
+60.6931 	EXP 	fixation: autoDraw = True
+61.1933 	INFO 	Keyboard events cleared
+61.1927 	EXP 	fixation: autoDraw = False
+61.1927 	EXP 	grating: autoDraw = True
+61.4921 	EXP 	grating: autoDraw = False
+61.4944 	DATA 	Keypress: right
+61.5092 	EXP 	fixation: autoDraw = False
+61.5092 	EXP 	grating: autoDraw = False
+61.5092 	EXP 	grating: ori = 4.0
+61.5092 	EXP 	fixation: autoDraw = True
+62.0097 	INFO 	Keyboard events cleared
+62.0090 	EXP 	fixation: autoDraw = False
+62.0090 	EXP 	grating: autoDraw = True
+62.2942 	DATA 	Keypress: right
+62.3082 	EXP 	grating: autoDraw = False
+62.3082 	EXP 	fixation: autoDraw = False
+62.3082 	EXP 	grating: autoDraw = False
+62.3082 	EXP 	grating: ori = -3.5
+62.3082 	EXP 	fixation: autoDraw = True
+62.8082 	INFO 	Keyboard events cleared
+62.8077 	EXP 	fixation: autoDraw = False
+62.8077 	EXP 	grating: autoDraw = True
+63.0599 	DATA 	Keypress: right
+63.0743 	EXP 	fixation: autoDraw = False
+63.0743 	EXP 	grating: autoDraw = False
+63.0743 	EXP 	grating: ori = -4.0
+63.0743 	EXP 	fixation: autoDraw = True
+63.5745 	INFO 	Keyboard events cleared
+63.5741 	EXP 	fixation: autoDraw = False
+63.5741 	EXP 	grating: autoDraw = True
+63.8738 	EXP 	grating: autoDraw = False
+64.0081 	DATA 	Keypress: left
+64.0405 	EXP 	fixation: autoDraw = False
+64.0405 	EXP 	grating: autoDraw = False
+64.0405 	EXP 	grating: ori = 4.0
+64.0405 	EXP 	fixation: autoDraw = True
+64.5410 	INFO 	Keyboard events cleared
+64.5405 	EXP 	grating: autoDraw = True
+64.5564 	EXP 	fixation: autoDraw = False
+64.8423 	DATA 	Keypress: left
+64.8565 	EXP 	grating: autoDraw = False
+64.8565 	EXP 	fixation: autoDraw = False
+64.8565 	EXP 	grating: autoDraw = False
+64.8565 	EXP 	grating: ori = 4.5
+64.8565 	EXP 	fixation: autoDraw = True
+65.3558 	INFO 	Keyboard events cleared
+65.3553 	EXP 	fixation: autoDraw = False
+65.3553 	EXP 	grating: autoDraw = True
+65.6551 	EXP 	grating: autoDraw = False
+65.7239 	DATA 	Keypress: right
+65.7385 	EXP 	fixation: autoDraw = False
+65.7385 	EXP 	grating: autoDraw = False
+65.7385 	EXP 	grating: ori = -4.5
+65.7385 	EXP 	fixation: autoDraw = True
+65.7565 	DATA 	Keypress: left
+66.2387 	INFO 	Keyboard events cleared
+66.2379 	EXP 	fixation: autoDraw = False
+66.2379 	EXP 	grating: autoDraw = True
+66.5244 	DATA 	Keypress: left
+66.5380 	EXP 	grating: autoDraw = False
+66.5380 	EXP 	fixation: autoDraw = False
+66.5380 	EXP 	grating: autoDraw = False
+66.5380 	EXP 	grating: ori = 4.5
+66.5380 	EXP 	fixation: autoDraw = True
+67.0380 	INFO 	Keyboard events cleared
+67.0375 	EXP 	fixation: autoDraw = False
+67.0375 	EXP 	grating: autoDraw = True
+67.2562 	DATA 	Keypress: left
+67.2710 	EXP 	fixation: autoDraw = False
+67.2710 	EXP 	grating: autoDraw = False
+67.2710 	EXP 	grating: ori = -5.0
+67.2710 	EXP 	fixation: autoDraw = True
+67.7710 	INFO 	Keyboard events cleared
+67.7704 	EXP 	grating: autoDraw = True
+67.7867 	EXP 	fixation: autoDraw = False
+67.9897 	DATA 	Keypress: left
+68.0035 	EXP 	fixation: autoDraw = False
+68.0035 	EXP 	grating: autoDraw = False
+68.0035 	EXP 	grating: ori = -5.0
+68.0035 	EXP 	fixation: autoDraw = True
+68.5036 	INFO 	Keyboard events cleared
+68.5028 	EXP 	fixation: autoDraw = False
+68.5028 	EXP 	grating: autoDraw = True
+68.6559 	DATA 	Keypress: left
+68.6699 	EXP 	fixation: autoDraw = False
+68.6699 	EXP 	grating: autoDraw = False
+68.6699 	EXP 	grating: ori = -5.0
+68.6699 	EXP 	fixation: autoDraw = True
+69.1691 	INFO 	Keyboard events cleared
+69.1688 	EXP 	grating: autoDraw = True
+69.1863 	EXP 	fixation: autoDraw = False
+69.3381 	DATA 	Keypress: left
+69.3525 	EXP 	fixation: autoDraw = False
+69.3525 	EXP 	grating: autoDraw = False
+69.3525 	EXP 	grating: ori = 4.5
+69.3525 	EXP 	fixation: autoDraw = True
+69.8524 	INFO 	Keyboard events cleared
+69.8517 	EXP 	fixation: autoDraw = False
+69.8517 	EXP 	grating: autoDraw = True
+69.9379 	DATA 	Keypress: left
+69.9522 	EXP 	fixation: autoDraw = False
+69.9522 	EXP 	grating: autoDraw = False
+69.9522 	EXP 	grating: ori = -5.0
+69.9522 	EXP 	fixation: autoDraw = True
+70.4522 	INFO 	Keyboard events cleared
+70.4515 	EXP 	grating: autoDraw = True
+70.4681 	EXP 	fixation: autoDraw = False
+70.7516 	EXP 	grating: autoDraw = False
+71.3521 	DATA 	Keypress: left
+71.3671 	EXP 	fixation: autoDraw = False
+71.3671 	EXP 	grating: autoDraw = False
+71.3671 	EXP 	grating: ori = -5.0
+71.3671 	EXP 	fixation: autoDraw = True
+71.8512 	INFO 	Keyboard events cleared
+71.8504 	EXP 	grating: autoDraw = True
+71.8676 	EXP 	fixation: autoDraw = False
+72.1495 	EXP 	grating: autoDraw = False
+72.2349 	DATA 	Keypress: left
+72.2670 	EXP 	fixation: autoDraw = False
+72.2670 	EXP 	grating: autoDraw = False
+72.2670 	EXP 	grating: ori = 5.0
+72.2670 	EXP 	fixation: autoDraw = True
+72.7675 	INFO 	Keyboard events cleared
+72.7669 	EXP 	fixation: autoDraw = False
+72.7669 	EXP 	grating: autoDraw = True
+73.0666 	EXP 	grating: autoDraw = False
+73.2518 	DATA 	Keypress: right
+73.2661 	EXP 	fixation: autoDraw = False
+73.2661 	EXP 	grating: autoDraw = False
+73.2661 	EXP 	grating: ori = 4.5
+73.2661 	EXP 	fixation: autoDraw = True
+73.7665 	INFO 	Keyboard events cleared
+73.7658 	EXP 	grating: autoDraw = True
+73.7828 	EXP 	fixation: autoDraw = False
+74.0657 	EXP 	grating: autoDraw = False
+74.2347 	DATA 	Keypress: right
+74.2479 	EXP 	fixation: autoDraw = False
+74.2479 	EXP 	grating: autoDraw = False
+74.2479 	EXP 	grating: ori = -4.5
+74.2479 	EXP 	fixation: autoDraw = True
+74.7483 	INFO 	Keyboard events cleared
+74.7478 	EXP 	fixation: autoDraw = False
+74.7478 	EXP 	grating: autoDraw = True
+75.0481 	EXP 	grating: autoDraw = False
+75.1832 	DATA 	Keypress: right
+75.1975 	EXP 	fixation: autoDraw = False
+75.1975 	EXP 	grating: autoDraw = False
+75.1975 	EXP 	grating: ori = -5.0
+75.1975 	EXP 	fixation: autoDraw = True
+75.6981 	INFO 	Keyboard events cleared
+75.6977 	EXP 	fixation: autoDraw = False
+75.6977 	EXP 	grating: autoDraw = True
+75.9974 	EXP 	grating: autoDraw = False
+77.9480 	DATA 	Keypress: left
+77.9625 	EXP 	fixation: autoDraw = False
+77.9625 	EXP 	grating: autoDraw = False
+77.9625 	EXP 	grating: ori = 5.0
+77.9625 	EXP 	fixation: autoDraw = True
+78.4623 	INFO 	Keyboard events cleared
+78.4618 	EXP 	fixation: autoDraw = False
+78.4618 	EXP 	grating: autoDraw = True
+78.7616 	EXP 	grating: autoDraw = False
+79.1969 	DATA 	Keypress: right
+79.2112 	EXP 	fixation: autoDraw = False
+79.2112 	EXP 	grating: autoDraw = False
+79.2112 	EXP 	grating: ori = 5.0
+79.2112 	EXP 	fixation: autoDraw = True
+79.7112 	INFO 	Keyboard events cleared
+79.7108 	EXP 	fixation: autoDraw = False
+79.7108 	EXP 	grating: autoDraw = True
+80.0097 	EXP 	grating: autoDraw = False
+80.1458 	DATA 	Keypress: right
+80.1604 	EXP 	fixation: autoDraw = False
+80.1604 	EXP 	grating: autoDraw = False
+80.1604 	EXP 	grating: ori = 4.5
+80.1604 	EXP 	fixation: autoDraw = True
+80.6607 	INFO 	Keyboard events cleared
+80.6600 	EXP 	fixation: autoDraw = False
+80.6600 	EXP 	grating: autoDraw = True
+80.9592 	EXP 	grating: autoDraw = False
+81.3114 	DATA 	Keypress: right
+81.3262 	EXP 	fixation: autoDraw = False
+81.3262 	EXP 	grating: autoDraw = False
+81.3262 	EXP 	grating: ori = 4.5
+81.3262 	EXP 	fixation: autoDraw = True
+81.8097 	INFO 	Keyboard events cleared
+81.8091 	EXP 	grating: autoDraw = True
+81.8259 	EXP 	fixation: autoDraw = False
+82.1083 	EXP 	grating: autoDraw = False
+82.7612 	DATA 	Keypress: right
+82.7757 	EXP 	fixation: autoDraw = False
+82.7757 	EXP 	grating: autoDraw = False
+82.7757 	EXP 	grating: ori = -4.5
+82.7757 	EXP 	fixation: autoDraw = True
+83.2751 	INFO 	Keyboard events cleared
+83.2745 	EXP 	fixation: autoDraw = False
+83.2745 	EXP 	grating: autoDraw = True
+83.5739 	EXP 	grating: autoDraw = False
+85.0932 	DATA 	Keypress: right
+85.1066 	EXP 	fixation: autoDraw = False
+85.1066 	EXP 	grating: autoDraw = False
+85.1066 	EXP 	grating: ori = -5.0
+85.1066 	EXP 	fixation: autoDraw = True
+85.6063 	INFO 	Keyboard events cleared
+85.6059 	EXP 	fixation: autoDraw = False
+85.6059 	EXP 	grating: autoDraw = True
+85.9059 	EXP 	grating: autoDraw = False
+86.5078 	DATA 	Keypress: right
+86.5217 	EXP 	fixation: autoDraw = False
+86.5217 	EXP 	grating: autoDraw = False
+86.5217 	EXP 	grating: ori = -5.5
+86.5217 	EXP 	fixation: autoDraw = True
+87.0221 	INFO 	Keyboard events cleared
+87.0215 	EXP 	fixation: autoDraw = False
+87.0215 	EXP 	grating: autoDraw = True
+87.3210 	EXP 	grating: autoDraw = False
+87.8728 	DATA 	Keypress: right
+87.8877 	EXP 	fixation: autoDraw = False
+87.8877 	EXP 	grating: autoDraw = False
+87.8877 	EXP 	grating: ori = -6.0
+87.8877 	EXP 	fixation: autoDraw = True
+88.3870 	INFO 	Keyboard events cleared
+88.3865 	EXP 	grating: autoDraw = True
+88.4032 	EXP 	fixation: autoDraw = False
+88.6865 	EXP 	grating: autoDraw = False
+89.0558 	DATA 	Keypress: left
+89.0702 	EXP 	fixation: autoDraw = False
+89.0702 	EXP 	grating: autoDraw = False
+89.0702 	EXP 	grating: ori = 6.0
+89.0702 	EXP 	fixation: autoDraw = True
+89.5694 	INFO 	Keyboard events cleared
+89.5689 	EXP 	fixation: autoDraw = False
+89.5689 	EXP 	grating: autoDraw = True
+89.8688 	EXP 	grating: autoDraw = False
+90.4370 	DATA 	Keypress: left
+90.4519 	EXP 	fixation: autoDraw = False
+90.4519 	EXP 	grating: autoDraw = False
+90.4519 	EXP 	grating: ori = 6.5
+90.4519 	EXP 	fixation: autoDraw = True
+90.9533 	INFO 	Keyboard events cleared
+90.9528 	EXP 	fixation: autoDraw = False
+90.9528 	EXP 	grating: autoDraw = True
+91.2678 	EXP 	grating: autoDraw = False
+91.8193 	DATA 	Keypress: right
+91.8340 	EXP 	fixation: autoDraw = False
+91.8340 	EXP 	grating: autoDraw = False
+91.8340 	EXP 	grating: ori = -6.5
+91.8340 	EXP 	fixation: autoDraw = True
+92.3341 	INFO 	Keyboard events cleared
+92.3334 	EXP 	fixation: autoDraw = False
+92.3334 	EXP 	grating: autoDraw = True
+92.6327 	EXP 	grating: autoDraw = False
+92.8851 	DATA 	Keypress: left
+92.9170 	EXP 	fixation: autoDraw = False
+92.9170 	EXP 	grating: autoDraw = False
+92.9170 	EXP 	grating: ori = -6.5
+92.9170 	EXP 	fixation: autoDraw = True
+93.4174 	INFO 	Keyboard events cleared
+93.4169 	EXP 	fixation: autoDraw = False
+93.4169 	EXP 	grating: autoDraw = True
+93.7164 	EXP 	grating: autoDraw = False
+95.2171 	DATA 	Keypress: left
+95.2312 	EXP 	fixation: autoDraw = False
+95.2312 	EXP 	grating: autoDraw = False
+95.2312 	EXP 	grating: ori = 6.0
+95.2312 	EXP 	fixation: autoDraw = True
+95.7309 	INFO 	Keyboard events cleared
+95.7304 	EXP 	fixation: autoDraw = False
+95.7304 	EXP 	grating: autoDraw = True
+96.0305 	EXP 	grating: autoDraw = False
+96.3322 	DATA 	Keypress: left
+96.3480 	EXP 	fixation: autoDraw = False
+96.3480 	EXP 	grating: autoDraw = False
+96.3480 	EXP 	grating: ori = 6.5
+96.3480 	EXP 	fixation: autoDraw = True
+96.8479 	INFO 	Keyboard events cleared
+96.8475 	EXP 	grating: autoDraw = True
+96.8631 	EXP 	fixation: autoDraw = False
+97.1470 	EXP 	grating: autoDraw = False
+99.2969 	DATA 	Keypress: right
+99.3117 	EXP 	fixation: autoDraw = False
+99.3117 	EXP 	grating: autoDraw = False
+99.3117 	EXP 	grating: ori = 6.5
+99.3117 	EXP 	fixation: autoDraw = True
+99.8134 	INFO 	Keyboard events cleared
+99.8126 	EXP 	grating: autoDraw = True
+99.8274 	EXP 	fixation: autoDraw = False
+100.1268 	EXP 	grating: autoDraw = False
+100.2957 	DATA 	Keypress: right
+100.3103 	EXP 	fixation: autoDraw = False
+100.3103 	EXP 	grating: autoDraw = False
+100.3103 	EXP 	grating: ori = 6.5
+100.3103 	EXP 	fixation: autoDraw = True
+100.8109 	INFO 	Keyboard events cleared
+100.8104 	EXP 	fixation: autoDraw = False
+100.8104 	EXP 	grating: autoDraw = True
+101.1096 	EXP 	grating: autoDraw = False
+101.4459 	DATA 	Keypress: right
+101.4601 	EXP 	fixation: autoDraw = False
+101.4601 	EXP 	grating: autoDraw = False
+101.4601 	EXP 	grating: ori = 6.0
+101.4601 	EXP 	fixation: autoDraw = True
+101.9591 	INFO 	Keyboard events cleared
+101.9585 	EXP 	fixation: autoDraw = False
+101.9585 	EXP 	grating: autoDraw = True
+102.2589 	EXP 	grating: autoDraw = False
+102.3782 	DATA 	Keypress: right
+102.3921 	EXP 	fixation: autoDraw = False
+102.3921 	EXP 	grating: autoDraw = False
+102.3921 	EXP 	grating: ori = 6.0
+102.3921 	EXP 	fixation: autoDraw = True
+102.8765 	INFO 	Keyboard events cleared
+102.8759 	EXP 	grating: autoDraw = True
+102.8920 	EXP 	fixation: autoDraw = False
+103.1747 	EXP 	grating: autoDraw = False
+103.7451 	DATA 	Keypress: right
+103.7585 	EXP 	fixation: autoDraw = False
+103.7585 	EXP 	grating: autoDraw = False
+103.7585 	EXP 	grating: ori = 6.0
+103.7585 	EXP 	fixation: autoDraw = True
+104.2580 	INFO 	Keyboard events cleared
+104.2573 	EXP 	fixation: autoDraw = False
+104.2573 	EXP 	grating: autoDraw = True
+104.5566 	EXP 	grating: autoDraw = False
+104.8088 	DATA 	Keypress: right
+104.8234 	EXP 	fixation: autoDraw = False
+104.8234 	EXP 	grating: autoDraw = False
+104.8234 	EXP 	grating: ori = 5.5
+104.8234 	EXP 	fixation: autoDraw = True
+105.3234 	INFO 	Keyboard events cleared
+105.3228 	EXP 	fixation: autoDraw = False
+105.3228 	EXP 	grating: autoDraw = True
+105.6229 	EXP 	grating: autoDraw = False
+105.8424 	DATA 	Keypress: right
+105.8558 	EXP 	fixation: autoDraw = False
+105.8558 	EXP 	grating: autoDraw = False
+105.8558 	EXP 	grating: ori = -5.5
+105.8558 	EXP 	fixation: autoDraw = True
+106.3553 	INFO 	Keyboard events cleared
+106.3549 	EXP 	fixation: autoDraw = False
+106.3549 	EXP 	grating: autoDraw = True
+106.6548 	EXP 	grating: autoDraw = False
+107.2403 	DATA 	Keypress: left
+107.2544 	EXP 	fixation: autoDraw = False
+107.2544 	EXP 	grating: autoDraw = False
+107.2544 	EXP 	grating: ori = -5.5
+107.2544 	EXP 	fixation: autoDraw = True
+107.7548 	INFO 	Keyboard events cleared
+107.7543 	EXP 	fixation: autoDraw = False
+107.7543 	EXP 	grating: autoDraw = True
+108.0543 	EXP 	grating: autoDraw = False
+108.1393 	DATA 	Keypress: left
+108.1543 	EXP 	fixation: autoDraw = False
+108.1543 	EXP 	grating: autoDraw = False
+108.1543 	EXP 	grating: ori = -5.0
+108.1543 	EXP 	fixation: autoDraw = True
+108.6543 	INFO 	Keyboard events cleared
+108.6538 	EXP 	fixation: autoDraw = False
+108.6538 	EXP 	grating: autoDraw = True
+108.9536 	EXP 	grating: autoDraw = False
+109.0052 	DATA 	Keypress: left
+109.0196 	EXP 	fixation: autoDraw = False
+109.0196 	EXP 	grating: autoDraw = False
+109.0196 	EXP 	grating: ori = -5.0
+109.0196 	EXP 	fixation: autoDraw = True
+109.5037 	INFO 	Keyboard events cleared
+109.5029 	EXP 	grating: autoDraw = True
+109.5191 	EXP 	fixation: autoDraw = False
+109.8031 	EXP 	grating: autoDraw = False
+110.2550 	DATA 	Keypress: left
+110.2690 	EXP 	fixation: autoDraw = False
+110.2690 	EXP 	grating: autoDraw = False
+110.2690 	EXP 	grating: ori = -5.0
+110.2690 	EXP 	fixation: autoDraw = True
+110.7697 	INFO 	Keyboard events cleared
+110.7692 	EXP 	fixation: autoDraw = False
+110.7692 	EXP 	grating: autoDraw = True
+111.0680 	EXP 	grating: autoDraw = False
+111.2537 	DATA 	Keypress: left
+111.2679 	EXP 	fixation: autoDraw = False
+111.2679 	EXP 	grating: autoDraw = False
+111.2679 	EXP 	grating: ori = 4.5
+111.2679 	EXP 	fixation: autoDraw = True
+111.7680 	INFO 	Keyboard events cleared
+111.7674 	EXP 	fixation: autoDraw = False
+111.7674 	EXP 	grating: autoDraw = True
+112.0673 	EXP 	grating: autoDraw = False
+112.2526 	DATA 	Keypress: right
+112.2676 	EXP 	fixation: autoDraw = False
+112.2676 	EXP 	grating: autoDraw = False
+112.2677 	EXP 	adaptive_staircase: status = STOPPED
+112.2863 	INFO 	saved data to 'C:\\Users\\Jash\\Downloads\\PsychoPy\\Adaptive staircase\\data/899606_adaptive_staircase_2024-09-12_23h00.22.499.csv'
+112.2879 	INFO 	saved data to C:\Users\Jash\Downloads\PsychoPy\Adaptive staircase\data/899606_adaptive_staircase_2024-09-12_23h00.22.499.psydat
+112.3203 	EXP 	window1: mouseVisible = True
